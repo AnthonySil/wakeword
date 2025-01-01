@@ -3,9 +3,9 @@
   "wake_word": "luucee",
   "author": "Anthony Silva",
   "website": "https://www.anthonysilva.com/",
-  "model": "luucee.tflite",
+  "model": "https://github.com/AnthonySil/wakeword/releases/download/v0.0.1/luucee.tflite",
   "trained_languages": ["en"],
-  "version": 1,
+  "version": 2,
   "micro": {
     "probability_cutoff": 0.75,
     "feature_step_size": 10,
